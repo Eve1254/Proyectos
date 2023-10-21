@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Press+Start+2P&display=swap');
+
+body
+{
+    font-family: 'Luckiest Guy', cursive;
+    background-image: radial-gradient(circle at 50% 25.74%, #ffffa1 0, #f5ffa0 6.25%, #e4ffa0 12.5%, #d2ffa1 18.75%, #bdffa3 25%, #a7fda6 31.25%, #8cfaaa 37.5%, #6cf7af 43.75%, #3cf2b5 50%, #00edbc 56.25%, #00e8c6 62.5%, #00e4d0 68.75%, #00dfdc 75%, #00dbe9 81.25%, #00d7f5 87.5%, #00d3ff 93.75%, #00d0ff 100%);
+}
+#seleccionar-mascota
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo
+{
+    color :black;
+    font-size: 100px;
+}
+
+
+.subtitulo
+{
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    font-size: 30px;
+
+}
+
+.tarjetas
+{
+    display: flex;
+    gap:10px;
+}
+
+.tarjeta-de-mokepon
+{
+    font-family: 'Press Start 2P', cursive;
+    width: 236px;
+    height: 100px;
+    background: #72FFFF;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tarjeta-de-mokepon img
+{
+    width: 82px;
+}
+
+input
+{
+    display: none;
+}
+/*Detalle para los botones*/
+input:checked + label
+{
+    background-color: #9ED2C6;
+
+}
+
+#boton-mascota
+{
+    font-family: 'Press Start 2P', cursive;
+    width: 180px;
+    height: 40px;
+    border-radius: 20px;
+    background: blanchedalmond;
+    border: 2px solid black;
+    margin-top: 30px;
+}
+#seleccionar-ataque
+{
+    flex-direction: column;
+    align-items: center;
+}
+/*Diseño de los 3 botones de ataque */
+.boton-de-ataque
+{
+    font-family: 'Press Start 2P', cursive;
+    background-color:#72FFFF; 
+    padding: 10px;  /*Espacio interno*/
+    box-sizing: border-box; /*para que padding no modifique tamaño original del botón*/
+    border-radius: 20px; /*esquinas redondas*/
+    border-color: transparent;
+    width: 80px;
+
+}
+
+/*Personalización de mensajes en pantalla gana/pierde */
+#mensajes
+{
+    width: 241px;
+    background: #72FFFF;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+/*Personalización de Botón reiniciar*/
+#boton-reiniciar
+{
+    font-family: 'Press Start 2P', cursive;
+    border:none;
+}
+
+/*Separación por columnas*/
+.ataques
+{
+    display:grid;
+    grid-template-columns: 100px 100px;
+    font-size: 20px;
+}
+.ataques-jugador, .ataques-enemigo 
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#ver-mapa{
+    flex-direction:column ;
+    align-items: center;
+    justify-content: center;
+}
+#ver-mapa button{
+    font-family: 'Press Start 2P', cursive;
+    width: 142px;
+    height: 40px;
+    border-radius: 20px;
+    background: blanchedalmond;
+    border: 2px solid black;
+    margin: 10px 0;
+}
+
+
+/*Modificación de sitio web para dispositivos pequeños
+@media(max-width: 360px)
+{
+    .tarjetas, .tarjetas-ataques {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+    }
+    .titulo {
+        font-size: 80px;
+    }
+}
+*/
+
+@media(max-width: 960px)
+{
+    .tarjetas, .tarjetas-ataques {
+     flex-direction: column;
+    }
+}
+@media(max-width: 300px)
+{
+    #ver-mapa div {
+        display:flex ;
+        align-items: center;
+     flex-direction: column;
+    }
+}

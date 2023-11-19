@@ -1,0 +1,59 @@
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\bin\Debug\Parqueadero.exe.config
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\bin\Debug\Parqueadero.exe
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\bin\Debug\Parqueadero.pdb
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.ConsultaCelda.resources
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.MaestroDetalle.resources
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.Properties.Resources.resources
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.exe
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.pdb
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.ConsultaPlaca.resources
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.IngresarCliente.resources
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.EliminarCliente.resources
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.Actualizar.resources
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.IngresoVehiculo.resources
+C:\Users\acer\Desktop\Parqueadero\Parqueadero\obj\Debug\Parqueadero.Asistente.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\bin\Debug\Parqueadero.exe.config
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\bin\Debug\Parqueadero.exe
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\bin\Debug\Parqueadero.pdb
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.Actualizar.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.ConsultaCelda.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.ConsultaPlaca.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.EliminarCliente.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.IngresarCliente.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.MaestroDetalle.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.IngresoVehiculo.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.Properties.Resources.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.exe
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.pdb
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.AsistenteCeldas.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.AsistenteDB.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.SalidaVehiculo.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.Logueo.resources
+C:\Users\acer\Desktop\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.AsistenteClientes.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\bin\Debug\Parqueadero.exe.config
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\bin\Debug\Parqueadero.exe
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\bin\Debug\Parqueadero.pdb
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.csproj.AssemblyReference.cache
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.Actualizar.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.AsistenteCeldas.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.AsistenteClientes.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.AsistenteDB.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.ConsultaCelda.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.ConsultaPlaca.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.EliminarCliente.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.IngresarCliente.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.Logueo.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.MaestroDetalle.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.IngresoVehiculo.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.Properties.Resources.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.SalidaVehiculo.resources
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.csproj.GenerateResource.cache
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.csproj.CoreCompileInputs.cache
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.exe
+C:\Users\evely\Pictures\PROYECTO PARQUEADERO\PROYECTO PARQUEADERO\Parqueadero\Parqueadero\obj\Debug\Parqueadero.pdb
